@@ -1,0 +1,24 @@
+{
+  "name": "picture",
+  "version": "0.0.0",
+  "description": "picture",
+  "main": "./index.js",
+  "scripts": {
+    "test": "123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "123"
+  },
+  "keywords": [
+    "123"
+  ],
+  "bin": {
+    "picture": "./index.js"
+  },
+  "author": "123",
+  "license": "ISC",
+  "dependencies": {
+    "picture-tube": "^1.0.0"
+  }
+}
